@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+wreckfest2-backups/
+AGENTS.md
+*.spec
+!Wreckfest2AutoUpgrader.spec
